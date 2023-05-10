@@ -1,0 +1,2 @@
+101 xaphong xa_phong 1000 50
+102 botgiat bot_giat 2000 20
